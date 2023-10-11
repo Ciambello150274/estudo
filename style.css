@@ -1,0 +1,18 @@
+body{
+    padding: 5px 0;
+    text-align: center;
+    color: #333;
+    margin: 0 300px;
+    border: 2px solid #555;
+}
+
+h1{
+    text-shadow: 1px 1px 0 blue;
+    width: max-content;
+    box-shadow: 0 8px 5px 0;
+    margin: 0 auto;
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 5px 15px;
+    background-color: rgb(121, 246, 255);
+}
