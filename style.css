@@ -6,7 +6,7 @@ body{
     border: 2px solid #555;
 }
 
-h1{
+header h1{
     text-shadow: 1px 1px 0 blue;
     width: max-content;
     box-shadow: 0 8px 5px 0;
@@ -15,4 +15,17 @@ h1{
     border-radius: 5px;
     padding: 5px 15px;
     background-color: rgb(121, 246, 255);
+}
+
+p{
+    margin: 020px;
+    background-color: #6c6e71;
+    padding: 15px 20px;
+    color: #fff;
+}
+
+footer h4{
+    background-color: lightgray;
+    border-radius: 8px;
+    margin: 0 35px;
 }
